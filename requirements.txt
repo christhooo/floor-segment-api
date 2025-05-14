@@ -4,3 +4,4 @@ tensorflow==2.12.1
 tensorflow-hub
 Pillow
 numpy
+gunicorn
