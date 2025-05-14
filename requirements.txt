@@ -4,5 +4,3 @@ tensorflow==2.12.1
 tensorflow-hub
 Pillow
 numpy
-
-Use TF 2.12.1 instead of 2.11.0
